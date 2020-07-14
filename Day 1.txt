@@ -1,0 +1,14 @@
+$git init //creates new repository
+
+//to do configuration 
+	#setup a default editor 
+
+	#decide your username
+	$ git config --global user.name "Vaibhavee"
+
+	#configure your email
+	$ git config --global user.email "vaibhavee.singh@zensar.com"
+
+
+
+ 
